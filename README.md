@@ -1,6 +1,6 @@
 # Correction Factor Definition 📈
 
-Este projeto tem como objetivo definir um **fator de correção** para reduzir o erro de medições em um sistema específico — por exemplo, sistemas de aquisição de dados com sensores (como FBGs). O script apresentado permite a análise de resultados medidos versus valores de referência, oferecendo uma maneira eficiente de aplicar correções estatísticas.
+Este projeto tem como objetivo definir um **fator de correção** para reduzir o erro de medições em um sistema específico. Por exemplo, sistemas de aquisição de dados com sensores (como FBGs). O script apresentado permite a análise de resultados medidos versus valores de referência, oferecendo uma maneira eficiente de aplicar correções estatísticas.
 
 ---
 
